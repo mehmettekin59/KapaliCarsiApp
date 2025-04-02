@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KapaliCarsiApp</string>
+    <string name="app_title">Kapalı Çarşı Exchange Rates</string>
+    <string name="search_hint">Search by code</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_code">Sort by Code</string>
+    <string name="sort_by_price">Sort by Buying Price</string>
+    <string name="buying">Buying</string>
+    <string name="selling">Selling</string>
+    <string name="retry">Retry</string>
+    <string name="no_results">No results found</string>
+    <string name="increased_from_previous">Increased from previous close</string>
+    <string name="decreased_from_previous">Decreased from previous close</string>
+    <string name="error_loading_data">Error loading data</string>
+
+</resources>
